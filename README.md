@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/km322/speech-to-text">
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*LyLWfbHfFUG_OyyGSwK-_w.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-use-google-speech-to-text-api-to-transcribe-long-audio-files-1c886f4eb3e9&tbnid=evbbeoPFQkhhAM&vet=12ahUKEwj_xKyDzo36AhWoomoFHX2lC8AQMygCegUIARDeAQ..i&docid=iqika8PS0Bg8CM&w=1280&h=1280&q=speech%20to%20text&client=safari&ved=2ahUKEwj_xKyDzo36AhWoomoFHX2lC8AQMygCegUIARDeAQ)![image](https://user-images.githubusercontent.com/76541886/189548261-83683736-b38b-46ef-90d1-847a3d1a1a4c.png" alt="Logo" width="80" height="80">
+    <img src="https://miro.medium.com/max/1400/1*LyLWfbHfFUG_OyyGSwK-_w.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Speech-to-Text Independent Exploratory Code</h3>
