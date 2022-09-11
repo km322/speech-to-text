@@ -88,7 +88,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Continue reading for instructions. This is not finished code however you can view our results <a href="https://docs.google.com/presentation/d/17XLdT3ZqTwe6KmQzfVJV6h9QM_LW96QY3pDXJCJKSjc/edit?usp=sharing"><strong>here</strong></a>
+Continue reading for instructions. This is not finished code however you can view our results <a href="https://docs.google.com/spreadsheets/d/1Qy8FtYK8ZudWyEPzUgo5D48KfbyGYAmF-UtRr3e0Pmc/edit?usp=sharing"><strong>here</strong></a>
 
 ### Prerequisites
 
@@ -108,11 +108,11 @@ This code is using Python Notebooks.
 You can git clone them if needed. 
 
 ```
-git clone https://github.com/km322/cosmos-final-project.git
+git clone https://github.com/km322/speech-to-text.git
 ```
 
 ```
-cd cosmos-final-project
+cd speech-to-text
 ```
 Then import the folder into Jupyter Labs and add credentials to use them. You can see the data results we got. 
 
@@ -123,7 +123,7 @@ Then import the folder into Jupyter Labs and add credentials to use them. You ca
 <!-- ROADMAP -->
 ## Roadmap
 
-- Explore the corrlation between mental health and Alzhiemer's Disease. Try to figure out whcih variables is related to AD. 
+- Try to use Speech-to-Text API's to get a good accuracy and help students read. 
 
 See the [open issues](https://github.com/km322/speech-to-text/issues) for a full list of proposed features (and known issues).
 
