@@ -23,23 +23,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/km322/cosmos-final-project">
+  <a href="https://github.com/km322/speech-to-text">
     <img src="https://pbs.twimg.com/profile_images/822120897255325696/xbs-dM7Z_400x400.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">COSMOS Alzheimer's Disease Data Exploration Code</h3>
+<h3 align="center">Speech-to-Text Independent Exploratory Code</h3>
 
   <p align="center">
-    COSMOS code for Alzheimer's Disease
+    Code for my AI models
     <br />
-    <a href="https://github.com/km322/cosmos-final-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/km322/speech-to-text"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/km322/cosmos-final-project">View Demo</a>
+    <a href="https://github.com/km322/speech-to-text">View Demo</a>
     ·
-    <a href="https://github.com/km322/cosmos-final-project/issues">Report Bug</a>
+    <a href="https://github.com/km322/speech-to-text/issues">Report Bug</a>
     ·
-    <a href="https://github.com/km322/cosmos-final-project/issues">Request Feature</a>
+    <a href="https://github.com/km322/speech-to-text/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 
 ### Built With
 
-* [RStudio](https://www.rstudio.com)
+* [Python](https://docs.python.org/3/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,11 +92,11 @@ Continue reading for instructions. This is not finished code however you can vie
 
 ### Prerequisites
 
-The code from COSMOS (R)
+This code is using Python Notebooks. 
 
 ### Installation
 
-1. Make sure to install the proper packages in R Studios
+1. Make sure to install the proper packages in Python's Jupyter Notebooks
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -114,7 +114,7 @@ git clone https://github.com/km322/cosmos-final-project.git
 ```
 cd cosmos-final-project
 ```
-Then import the folder into R studio and use the obvious buttons to use them. You can see the data visualizations we used. 
+Then import the folder into Jupyter Labs and add credentials to use them. You can see the data results we got. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -125,6 +125,6 @@ Then import the folder into R studio and use the obvious buttons to use them. Yo
 
 - Explore the corrlation between mental health and Alzhiemer's Disease. Try to figure out whcih variables is related to AD. 
 
-See the [open issues](https://github.com/km322/cosmos-final-project/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/km322/speech-to-text/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
